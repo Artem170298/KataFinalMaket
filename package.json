@@ -1,9 +1,12 @@
 {
   "name": "frontend-final",
   "version": "1.0.0",
+  "homepage": "https://Artem170298.github.io/KataFinalMaket",
   "description": "webpack",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "cross-env NODE_ENV=development webpack --mode development",
     "build": "cross-env NODE_ENV=production webpack --mode production",
     "watch": "cross-env NODE_ENV=development webpack --mode development --watch",
