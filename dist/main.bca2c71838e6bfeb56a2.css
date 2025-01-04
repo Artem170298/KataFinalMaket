@@ -1,6 +1,3 @@
-/*!******************************************************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/upper-menu/b-button-upp-m/--focus/__button-upp-m--focus.css ***!
-  \******************************************************************************************************************************/
 .button-upp-m:focus { 
     height: 40px;
     border-radius: 6px;
@@ -8,9 +5,6 @@
     background-color: white;
     box-sizing: border-box;
 }
-/*!*********************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/upper-menu/basic-style.css ***!
-  \*********************************************************************************************/
 body{
     font-family:"OpenSans", "TT Lakes";
     font-size: 16px;
@@ -155,9 +149,6 @@ body{
     line-height: 24px;
     color: #7E7E82;
 }
-/*!***********************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/upper-menu/desktop-upp-m.css ***!
-  \***********************************************************************************************/
 
 
 @media screen and (min-width: 1366px) {
@@ -765,9 +756,6 @@ body{
 
 
 }
-/*!**********************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/upper-menu/mobile-upp-m.css ***!
-  \**********************************************************************************************/
 @media screen and (min-width: 320px) and (max-width: 767px){
     
     .background-copy-upp-m { 
@@ -1489,9 +1477,6 @@ body{
         display: none;
     }
 }
-/*!**********************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/upper-menu/tablet-upp-m.css ***!
-  \**********************************************************************************************/
 
 @media screen and (min-width: 768px) and (max-width: 1365px){
 
@@ -2088,9 +2073,6 @@ body{
 
 
 }
-/*!*******************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/block-swiper/desktop.css ***!
-  \*******************************************************************************************/
 /* @import url('/block-brend/block-brend.css');
 @import url('/block-brends/block-brends.css');
 @import url('/block-brends/--open/block-brends--open.css');
@@ -2226,9 +2208,6 @@ body{
 
  }
 
-/*!******************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/block-swiper/mobile.css ***!
-  \******************************************************************************************/
 /* @import url('/block-brend/block-brend.css');
 @import url('/block-brends/block-brends.css');
 @import url('/swiper/swiper.css');
@@ -2339,9 +2318,6 @@ body{
 
 }
 
-/*!******************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/block-swiper/tablet.css ***!
-  \******************************************************************************************/
 /* @import url('/block-brend/block-brend.css');
 @import url('/block-brends/block-brends.css');
 @import url('/block-brends/--open/block-brends--open.css');
@@ -2479,9 +2455,6 @@ body{
 
 
 }
-/*!****************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/font/TTLakes.css ***!
-  \****************************************************************************/
 @font-face {
     font-family: 'TT Lakes Bold';
     src: url(bc06e609ecec9b2a9112.eot) format('embedded-opentype'),
@@ -2508,15 +2481,7 @@ body{
     font-weight: normal;
     font-style: normal;
 }
-/*!*******************************************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/scss/style.scss ***!
-  \*******************************************************************************************************************/
-body {
-  font-family: "TT Lakes Regular" !important;
-}
-/*!*******************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/block-menu/rectangle.css ***!
-  \*******************************************************************************************/
+body{font-family:"TT Lakes Regular" !important}
 .rectangle{
     display: flex;
     flex-direction: column;
@@ -2532,9 +2497,6 @@ body {
     padding-left: 0px; 
    opacity: 2 !important;
 }
-/*!*******************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/block-menu/animation.css ***!
-  \*******************************************************************************************/
 @keyframes appearance{
     to{
         opacity: 1;
@@ -2546,9 +2508,6 @@ body {
        color: #7E7E82;
     } 
 }
-/*!***************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/block-menu/style.css ***!
-  \***************************************************************************************/
 body {
     font-family: "TTLakes";
     font-size: 16px;
@@ -2596,9 +2555,6 @@ button{
     justify-self:end;
     background-color: white;
 }
-/*!***************************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/block-menu/b-contact/contact.css ***!
-  \***************************************************************************************************/
 
 .contact {
     display: flex;
@@ -2622,9 +2578,6 @@ button{
 .contact-icon{
     display: flex;
 }
-/*!***********************************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/block-menu/b-header-menu/header-menu.css ***!
-  \***********************************************************************************************************/
 
 .header-menu {
     display: flex;
@@ -2656,9 +2609,6 @@ button{
 .header-menu__ic-burger {
     margin-right: 0;
 }
-/*!*********************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/block-menu/b-lang/lang.css ***!
-  \*********************************************************************************************/
 
 .lang {
     left: 16px;
@@ -2690,9 +2640,6 @@ button{
     padding: 1px;
     margin: 1px;
 }
-/*!*******************************************************************************************************!*\
-  !*** css ../node_modules/css-loader/dist/cjs.js!./styles/blocks/block-menu/b-main-menu/main-menu.css ***!
-  \*******************************************************************************************************/
 .main-menu{
     width: 100%;
     box-sizing: border-box;
