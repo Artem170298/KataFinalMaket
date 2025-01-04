@@ -1,0 +1,42 @@
+.osnova__footer {
+    width: 100%;
+    box-sizing: border-box;
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding: 0 20px;
+    margin: 0;
+    border-top: 1px solid #D9FFF5;
+}
+
+.company,
+.politconf,
+.disclem {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 16px;
+    color: #7E7E82;
+}
+
+.company {
+    width: 218px;
+    height: 32px;
+    text-align: left;
+}
+
+.politconf {
+    width: 214px;
+    height: 32px;
+    text-align: center;
+    vertical-align: top;
+
+}
+
+.disclem {
+    min-width: 213px;
+    max-width: 330px;
+    width: auto;
+    height: 32px;
+    text-align: right;
+}

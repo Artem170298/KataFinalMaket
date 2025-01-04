@@ -1,0 +1,23 @@
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    width: 196px;
+    height: 124px;
+    margin-left: 20px;
+}
+
+.contact-icon__elem{
+    margin-right: 20px;
+}
+
+.contact-contacts__phone{
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.contact-icon{
+    display: flex;
+}

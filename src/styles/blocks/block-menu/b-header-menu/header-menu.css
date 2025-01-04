@@ -1,0 +1,31 @@
+
+.header-menu {
+    display: flex;
+    align-items: center;
+    width: 320px;
+    box-sizing: border-box;
+    height: 70px;
+    margin-bottom: 20px;
+    background-color: white;
+    opacity: 1;
+}
+
+.header-menu__element {
+    margin: 20px;
+    margin-top: 25px;
+}
+
+.header-menu__ic-group{
+    width: 97px;
+    height: 51px;
+    margin-left: 20px;
+    
+}
+
+.header-menu__ic-search{
+    margin-left: auto;
+}
+
+.header-menu__ic-burger {
+    margin-right: 0;
+}

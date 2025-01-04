@@ -1,0 +1,31 @@
+
+.lang {
+    left: 16px;
+    bottom: 10px;
+    width: 87px;
+    height: 24px;
+    opacity: 0px;
+    justify-self: flex-end;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.lang__button--active{
+    color: #7E7E82;
+}
+
+.lang__button:active{
+    animation-name: change-the-color;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+.lang__button {
+    background-color: white;
+    border: none;
+    font-family: TT Lakes;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 1px;
+    margin: 1px;
+}

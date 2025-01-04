@@ -1,0 +1,15 @@
+.rectangle{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 320px;
+    box-sizing: border-box;
+    min-height: 100vh;
+   
+    box-shadow: -2px 0px 4px 0px #454F7E05,
+                16px 0px 52px 0px #0E185033;
+    margin: 0;  
+    background-color: white;
+    padding-left: 0px; 
+   opacity: 2 !important;
+}

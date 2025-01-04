@@ -1,0 +1,207 @@
+
+@import './styles/blocks/upper-menu/b-button-upp-m/--focus/__button-upp-m--focus.css';
+@import './styles/blocks/upper-menu/basic-style.css';
+@import './styles/blocks/upper-menu/desktop-upp-m.css';
+@import './styles/blocks/upper-menu/mobile-upp-m.css';
+@import './styles/blocks/upper-menu/tablet-upp-m.css';
+
+@import './styles/blocks/block-swiper/desktop.css';
+@import './styles/blocks/block-swiper/mobile.css';
+@import './styles/blocks/block-swiper/tablet.css';
+
+@import './styles/blocks/block-menu/style.css';
+@import './styles/blocks/block-menu/rectangle.css';
+@import './styles/blocks/block-menu/animation.css';
+@import './styles/blocks/block-menu/b-contact/contact.css';
+@import './styles/blocks/block-menu/b-header-menu/header-menu.css';
+@import './styles/blocks/block-menu/b-lang/lang.css';
+@import './styles/blocks/block-menu/b-main-menu/main-menu.css';
+
+@import './styles/blocks/technics/technics.css';
+@import './styles/blocks/price-block/price.css';
+@import './styles/blocks/footer/footer.css';
+@import './styles/blocks/comment/comment.css';
+
+/* @media screen and (min-width: 1366px) {
+
+    body {
+        display: flex;
+        justify-content: flex-start;
+        font-family: "TT Lakes Regular";
+    }
+    .b-slide-menu-upp-m {
+        flex-wrap: wrap; /*переопределено*
+    }
+
+    .main-blog {
+        width: auto;
+        height: auto;
+        margin: 0;
+        padding: 0;
+    }
+    .background-copy-upp-m {
+        max-width: 1120px;
+        width: auto;
+        min-width: 1046px;
+        min-height: 535px;
+        max-height: 100%;
+        background: #F8F8F8;
+        margin: 0;
+        padding: 0;
+        padding-top: 1em;
+    }
+
+    .b-article__image-upp-m { 
+        min-width: 532px;
+        width: 1fr;
+        height: 307px;
+        box-sizing: border-box;
+        align-self: center;
+        border: 2px solid #FFFFFF;
+        border-radius: 5px;
+    }
+
+
+    .b-title__heading-upp-m {
+        display: flex;
+        margin: 0;
+        padding-left: 0px;
+        width: auto;
+    }
+
+    .b-title__heading-upp-m::before {
+        margin-right: 15px;
+    }
+
+    .slide-menu-upp-m {
+        margin-right: 10px;
+    }
+
+    .b-article-upp-m {
+        display: flex;
+        margin: 15px;
+        width: auto;
+        justify-content: space-between;
+    }
+
+    .b-parag-upp-m {
+        display: flex;
+        flex-direction:column;
+        justify-content: start;
+    }
+
+    .b-article__parag-upp-m {
+        display: inline-block;
+        width: 1fr/*312px*;
+        height: auto;
+        max-height: 160px; 
+        top: 240px;
+        left: 16px;
+        overflow: hidden;
+        margin-right: 40px;
+    }
+
+    .b-article__read-more-upp-m {
+        width: 132px;
+        height: 24px;
+        margin-top: 10px;
+    }
+
+
+    .b-rep-check-upp-m {
+        list-style-type: none;
+        display: flex;
+        width: auto;
+        height: 100%;
+        align-items: center;
+        justify-content:space-around;
+        margin-right: 20px;
+    }
+
+    .b-rep-check-upp-m::before{
+        display: none; 
+    }
+
+    .b-ccprc-upp-m {
+        margin-right: 15px;
+    }
+
+    .b-group-icon-upp-m {
+        display: flex;
+        width: auto;
+        height: 100%;
+    }
+
+    .b-call-prof-upp-m {
+        display: none;
+    }
+
+    .b-title-upp-m {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 20px 0 20px 0;
+    }
+
+    .header-upp-m {
+        display: none;
+    }
+
+    .repair-icon-upp-m {
+        display: flex;
+    }
+
+    .repair-icon-upp-m::before {
+        content: "Оставить заявку";
+        width: auto;
+        height: auto;
+        align-content: center;
+        margin-right: 10px;
+        color: black;
+        text-decoration: none;
+    }
+
+    .checkstatus-icon-upp-m{
+        display: flex;
+    }
+
+    .checkstatus-icon-upp-m::before{
+        content: "Статус ремонта";
+        width: auto;
+        height: auto;
+        align-content: center;
+        margin-right: 10px;
+        color: black;
+        text-decoration: none;
+        margin-left: 30px;
+    }
+
+    .url-upp-m {
+        text-decoration: none;
+    }
+
+    .button-upp-m {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .osnova {
+        min-width: 1046px;
+        max-width: 1120px;
+        width: auto;
+       
+    }
+
+    .header-menu__ic-burger {
+        display: none;
+    }
+
+
+    .header-menu__ic-group{
+       margin-top: 20px;
+        
+    }
+
+
+
+} */

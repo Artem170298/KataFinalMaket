@@ -1,0 +1,16 @@
+.button-upp-m {
+    word-spacing: 6;
+    text-align: center;
+    border: none;
+    height: 40px;
+    width: auto;
+    background-color: #F8F8F8;
+    text-wrap: nowrap;
+    font-family: TT Lakes;
+    font-size: 16px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 24px;
+    color: #7E7E82;
+}

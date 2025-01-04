@@ -1,0 +1,11 @@
+@keyframes appearance{
+    to{
+        opacity: 1;
+    }
+}
+
+@keyframes change-the-color {
+    to{
+       color: #7E7E82;
+    } 
+}
